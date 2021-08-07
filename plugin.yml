@@ -1,5 +1,5 @@
 name: Craft
-main: Craft\Main
+main: craft\Main
 version: 1.0.0
 api: 3.0.0
 author: TheFixDev
