@@ -1,8 +1,8 @@
 <?php
 
-namespace Craft\Commands;
+namespace craft\Commands;
 
-use Craft\Main;
+use craft\Main;
 
 use pocketmine\Player;
 use pocketmine\Server;
