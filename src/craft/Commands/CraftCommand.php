@@ -2,7 +2,7 @@
 
 namespace craft\Commands;
 
-use craft\Main;
+use Craft\Main;
 
 use pocketmine\Player;
 use pocketmine\Server;
