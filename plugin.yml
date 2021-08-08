@@ -1,0 +1,6 @@
+name: Craft
+main: TheFixDev\Craft\Main
+version: 1.0.0
+api: 3.0.0
+author: TheFixDev
+mcpe-protocol: 448
