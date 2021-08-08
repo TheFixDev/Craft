@@ -1,6 +1,6 @@
 <?php
 
-namespace craft\Commands;
+namespace Craft\Commands;
 
 use Craft\Main;
 
