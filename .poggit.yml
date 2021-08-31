@@ -5,4 +5,5 @@ branches:
 projects:
   Craft:
     path: ""
+    icon: "craft.jpg"
 ...
