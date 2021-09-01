@@ -8,4 +8,6 @@ mcpe-protocol: 448
 commands:
   craft:
     description: Open the workbench
-    default: true
+    default: op
+ 
+permission:
