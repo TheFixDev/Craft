@@ -1,2 +1,2 @@
 # Craft
-Enter /craft then a workbench will open
+Enter /craft then a workbench will Open
