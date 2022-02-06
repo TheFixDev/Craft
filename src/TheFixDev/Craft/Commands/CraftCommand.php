@@ -4,7 +4,7 @@ namespace TheFixDev\Craft\Commands;
 
 use TheFixDev\Craft\Main;
 
-use pocketmine\Player;
+use pocketmine\player\Player;
 use pocketmine\Server;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
